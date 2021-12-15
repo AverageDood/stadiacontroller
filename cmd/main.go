@@ -12,7 +12,7 @@ import (
 )
 
 var (
-	shell = flag.String("shell", "pwsh", "a path to the shell to execute for commands")
+	shell = flag.String("shell", "powershell", "a path to the shell to execute for commands")
 
 	onCapturePressed    = flag.String("capture-pressed", "", "a command to run when the Capture button is pressed")
 	onCaptureReleased   = flag.String("capture-released", "", "a command to run when the Capture button is released")
