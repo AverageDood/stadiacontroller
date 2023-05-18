@@ -1,3 +1,5 @@
+⚠THIS REPOSITORY IS *NOT* MAINTAINED⚠
+
 # Stadia Controller
 
 Support for using the Stadia Controller as an Xbox 360 controller
